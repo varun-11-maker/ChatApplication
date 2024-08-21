@@ -12,3 +12,15 @@ User Authentication: Secure login and registration using Firebase Authentication
 Backend: Firebase (for authentication, database, and storage)</li>
 <li>
 Tools: Git, npm</li>
+
+# Chat Application
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/chat-application.git
+   cd chat-application
+
