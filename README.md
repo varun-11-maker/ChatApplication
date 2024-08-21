@@ -24,5 +24,6 @@ To run this project locally, follow these steps:
    git clone 
    cd chat-application
 2. Install Dependencies:
+    ```bash
    npm install
 
