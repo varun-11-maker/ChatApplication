@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <url>
+   git clone https://github.com/varun-11-maker/ChatNexus.git
    cd chat-application
 2. Install Dependencies:
     ```bash
