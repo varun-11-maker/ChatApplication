@@ -13,7 +13,7 @@ Backend: Firebase (for authentication, database, and storage)</li>
 <li>
 Tools: Git, npm</li>
 
-# Chat Application
+
 
 ## Installation
 
@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
    npm install
  3. Set Up Firebase Configuration:
 
- <li>Create a Firebase project in the Firebase Console.</li>
- <li>Obtain your Firebase configuration settings (API key, Auth domain, Database URL, etc.).</li>
- <li>Create a firebase-config.js file in the src directory and add your Firebase configuration:</li>
+  <li>Create a Firebase project in the Firebase Console.</li>
+  <li>Obtain your Firebase configuration settings (API key, Auth domain, Database URL, etc.).</li>
+  <li>Create a firebase-config.js file in the src directory and add your Firebase configuration:</li>
 
