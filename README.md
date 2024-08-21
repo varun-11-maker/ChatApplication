@@ -6,3 +6,9 @@ The Chat Application is a real-time messaging platform built with React.js and F
 <li>
 User Authentication: Secure login and registration using Firebase Authentication.</li>
 <li>Message Notifications: Receive real-time notifications for new messages.</li>
+<h1>Tech Stack</h1>
+<li>Frontend: React.js</li>
+<li>
+Backend: Firebase (for authentication, database, and storage)</li>
+<li>
+Tools: Git, npm</li>
