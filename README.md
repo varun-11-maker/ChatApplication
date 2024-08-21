@@ -21,9 +21,14 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone <url>
    cd chat-application
 2. Install Dependencies:
     ```bash
    npm install
+3.Set Up Firebase Configuration:
+
+<li>Create a Firebase project in the Firebase Console.</li>
+<li>Obtain your Firebase configuration settings (API key, Auth domain, Database URL, etc.).</li>
+<li>Create a firebase-config.js file in the src directory and add your Firebase configuration:</li>
 
