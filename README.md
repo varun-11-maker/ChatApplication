@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 2. Install Dependencies:
     ```bash
    npm install
- 3. Set Up Firebase Configuration:
+ 3. Set Up Firebase Configuration: Create a firebase-config.js file in the src directory and add your Firebase configuration
 
   
 4. Start the Development Server:
